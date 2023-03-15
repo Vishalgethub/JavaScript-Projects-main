@@ -1,6 +1,6 @@
 # JavaScript-Projects
 
-[Visit Now](https://jigar-sable.github.io/JavaScript-Projects/) 🚀
+[Visit Now](https://vishalgethub.github.io/JavaScript-Projects-main/) 🚀
 
 [![javascript-projects](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://jigar-sable.github.io/JavaScript-Projects/)&nbsp;
 [![repo-size](https://img.shields.io/github/repo-size/jigar-sable/JavaScript-Projects)](https://github.com/jigar-sable/JavaScript-Projects)
@@ -25,7 +25,7 @@ If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/jigar-sable/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2021 Jigar Sable
+© 2022 Vishal
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
